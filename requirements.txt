@@ -1,0 +1,13 @@
+# The code was developed with Qiskit 1.x. qiskit-machine-learning 0.8.x is
+# incompatible with Qiskit 2.0+ (the SPSA optimizer import breaks), so Qiskit is
+# pinned below 2.0 for live training. "load" mode (viewing the shipped results)
+# works on newer Qiskit too.
+qiskit>=1.0,<2.0
+qiskit-aer>=0.14
+qiskit-machine-learning>=0.7,<0.9
+numpy
+pandas
+matplotlib
+# notebook environment
+jupyter
+pylatexenc        # required by qiskit's circuit.draw('mpl')

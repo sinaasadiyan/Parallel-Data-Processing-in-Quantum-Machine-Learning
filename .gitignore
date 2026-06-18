@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+_test_run.ipynb
+
+# Archives
+*.rar
+
+# OS
+.DS_Store
+Thumbs.db
