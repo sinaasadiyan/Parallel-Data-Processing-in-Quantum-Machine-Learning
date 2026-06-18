@@ -4,6 +4,9 @@ A reproducible quantum-machine-learning experiment that classifies four syntheti
 2-D datasets with a variational quantum circuit (a **ZZFeatureMap** encoder + a
 **TwoLocal** ansatz, re-uploaded 4×, trained with **SPSA**).
 
+📄 Paper: [Parallel Data Processing in Quantum Machine Learning](https://arxiv.org/abs/2508.12006)
+(arXiv:2508.12006) — M. Ramezani, S. Asadiyan Zargar, A. Bahrampour, S. Bagheri Shouraki, A. Bahrampour.
+
 Everything lives in a **single notebook** — [`Parallel_QML.ipynb`](QML_TwoLocal_Classifier.ipynb).
 Pick a dataset, run all cells, and the results are displayed inline.
 
