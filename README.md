@@ -115,7 +115,7 @@ explanation):
 | Method 1 per-eval (multiclass, 128 pts) | 6.56 s | 0.014 s | ~458× |
 | Method 1 full training (binary, 200 iters) | ≥ 71 min (est.) | ~12 s | ≥ ~370× |
 | Method 1 full training (multiclass, 400 iters) | ≥ 88 min (est.) | ~15 s | ≥ ~380× |
-| Method 2 full training (both) | did not finish | ~12–19 s | — |
+| Method 2 full training (both) | hours | ~12–19 s | — |
 
 Correctness is verified against the original notebook's trained parameters:
 100% prediction agreement, cost match to within `1e-15`.
