@@ -211,14 +211,6 @@ pip install -r requirements.txt
 
 ---
 
-## Speedup report
-
-A detailed explanation of why the original notebooks are slow, what was changed,
-and the measured speedup numbers is available in
-[`Qiskit_Training_Speedup_Report.pdf`](Qiskit_Training_Speedup_Report.pdf).
-
----
-
 ## Repository layout
 
 ```
