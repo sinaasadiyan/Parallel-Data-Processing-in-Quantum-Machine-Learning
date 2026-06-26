@@ -8,7 +8,7 @@ A reproducible quantum-machine-learning experiment that classifies four syntheti
 (arXiv:2508.12006) — M. Ramezani, S. Asadiyan Zargar, A. Bahrampour, S. Bagheri Shouraki, A. Bahrampour.
 
 Everything lives in a **single notebook** — [`Parallel_QML.ipynb`](QML_TwoLocal_Classifier.ipynb).
-Pick a dataset, run all cells, and the results are displayed inline.
+Pick a dataset, run all cells, and the results are displayed inline. The main Jupyter notebook is [`circles-dataset1.ipynb`](circles-dataset1.ipynb) for single class datasets and ['/multiclass/checkerboard-4L-4Q-dataset1.ipynb'](checkerboard-4L-4Q-dataset1.ipynb) for multiclass dataset that we trained the datasets and is in the paper bit it uses raw Qiskit and takes so long to run. So we suggest using the optimized versions.
 
 ## Datasets
 

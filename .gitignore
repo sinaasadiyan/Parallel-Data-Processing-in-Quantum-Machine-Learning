@@ -5,6 +5,7 @@ __pycache__/
 .venv/
 venv/
 env/
+.claude/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -13,6 +14,7 @@ _test_run.ipynb
 
 # Archives
 *.rar
+*.pdf
 
 # OS
 .DS_Store
