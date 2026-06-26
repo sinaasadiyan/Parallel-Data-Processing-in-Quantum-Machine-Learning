@@ -8,8 +8,8 @@ A reproducible quantum-machine-learning experiment that classifies four syntheti
 (arXiv:2508.12006) — M. Ramezani, S. Asadiyan Zargar, A. Bahrampour, S. Bagheri Shouraki, A. Bahrampour.
 
 The primary notebooks used to generate the paper's results are
-[`Parallel_QML.ipynb`](Parallel_QML.ipynb) (binary) and
-[`multiclass/Parallel_QML_Checkerboard4L.ipynb`](multiclass/Parallel_QML_Checkerboard4L.ipynb)
+[`circles-dataset1.ipynb`](circles-dataset1.ipynb) (binary) and
+[`multiclass/checkerboard-4L-4Q-dataset1.ipynb`](multiclass/checkerboard-4L-4Q-dataset1.ipynb)
 (4-class). Both are implemented with raw Qiskit and require a long execution
 time to train from scratch. For faster experimentation, optimized and PennyLane
 re-implementations are provided in the subfolders below — same model, same
